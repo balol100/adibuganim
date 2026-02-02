@@ -389,7 +389,7 @@
 
     <footer class="footer">
         <p>Adi Buganim - עיצוב גבות מקצועי | 050-2129735</p>
-        <p style="margin-top: 10px; font-size: 0.9rem; color: #a0865f;">© 2026 כל הזכויות שמורות</p>
+        <p style="margin-top: 10px; font-size: 0.9rem; color: #a0865f;">© Lior_Ai 2026 כל הזכויות שמורות</p>
     </footer>
 </body>
 </html>
